@@ -1,0 +1,16 @@
+﻿  Triangles.cpp
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\angel.h(45): warning C4005: 'BUFFER_OFFSET': macro redefinition
+  c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\include\vgl.h(55): note: see previous definition of 'BUFFER_OFFSET'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\angel.h(64): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(403): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(406): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(407): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(410): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(414): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(419): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(423): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(427): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(431): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\ass4\texture_and_camera\firstexample\animating_light\firstexample\triangles.cpp(446): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  FirstExample.vcxproj -> C:\Users\Owner\Desktop\Ass4\Texture_and_Camera\FirstExample\Animating_Light\Debug\FirstExample.exe

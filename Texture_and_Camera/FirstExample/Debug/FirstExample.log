@@ -1,0 +1,14 @@
+﻿  Triangles.cpp
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(3): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(459): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(463): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(467): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(471): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(475): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(479): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(494): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(497): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(498): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\owner\desktop\dannytest\texture_and_camera\firstexample\triangles.cpp(513): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  FirstExample.vcxproj -> C:\Users\Owner\Desktop\DannyTest\Texture_and_Camera\Debug\FirstExample.exe
